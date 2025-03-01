@@ -46,4 +46,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/WatchAndyTW/yolks:java_${{ matrix.tag }}
+            ghcr.io/watchandytw/yolks:java_${{ matrix.tag }}
